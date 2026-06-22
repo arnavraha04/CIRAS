@@ -1,0 +1,13 @@
+app_used,sessions,total_data_mb,suspicious
+Telegram,79,13565.58,True
+TeamViewer,77,11924.08,True
+AnyDesk,66,9926.81,True
+Signal,64,9594.74,True
+PhonePe,31,690.93,False
+BHIM,30,848.54,False
+GPay,29,736.1,False
+Instagram,28,505.34,False
+Chrome,27,781.62,False
+Paytm,27,768.3199999999999,False
+WhatsApp,23,494.88,False
+YouTube,19,515.59,False
